@@ -1,3 +1,6 @@
+##리액트 연습 프로젝트
+ -검색페이지 ui구현 해야함
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
